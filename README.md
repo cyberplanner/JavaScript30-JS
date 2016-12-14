@@ -1,4 +1,4 @@
-# JavaScript30-JS_Drum_Kit
+# JS_Drum_Kit
 
 ### The JavaScript 30 challenge - Challenge #1
 
