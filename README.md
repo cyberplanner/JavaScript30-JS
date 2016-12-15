@@ -1,5 +1,3 @@
-# JS_Drum_Kit
+# JavaScript 30 Challenge by Wes Bos
 
-### The JavaScript 30 challenge - Challenge #1
-
-A durm kit built with vanilla JS.
+* 01 - JS DrumKit
